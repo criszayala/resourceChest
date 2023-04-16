@@ -1,0 +1,14 @@
+To create an OpenAI API key, you will need to have an OpenAI account. Here is the process for creating an OpenAI API key:
+
+Step 1. Go to the OpenAI website and sign up for an account: https://platform.openai.com/
+
+Step 2. After you have created an account, log in to your OpenAI account.
+
+Step 3. In the top right corner of the screen, click on your account name and then select “API Keys” from the drop-down menu.
+
+Step 4. On the API Keys page, click the “Create new secret key” button.
+
+Step 5. The API key will be displayed on the screen. Make sure to copy the key and store it in a secure location, as it will not be shown again. You can also leave this page open for now.
+
+Once you have an API key, you can start using the API in Postman.
+
