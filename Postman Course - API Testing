@@ -1,1 +1,7 @@
+# API Testing
+
+## Endpoint
+
+### Status
+1. GET/Status: returns the status of the API
 
