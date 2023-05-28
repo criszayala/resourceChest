@@ -8,3 +8,16 @@
     "status": "OK"
 }
 
+##Random Test Data
+Ejemplo: Crear nombre de usuario aleatorios
+            Postman tiene una funcionalidad que permite realizar esto, se llama 'Variable aleatoria' "{{$randomFullName}}"
+            {
+               "bookId": 1,
+               "customername": "{{$randomFullName}}"
+            }
+            
+             En la consola de Postman, dentro del Request Body se puede visualizar el customerName utilizado:
+               {
+                "bookId": 1,
+                 "customername": "Lynn Cole"
+                }
